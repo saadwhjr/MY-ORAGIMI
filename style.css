@@ -1,0 +1,23 @@
+.header{
+    
+    background-position: center;
+    background-size: cover;
+    width: 40cm;
+    height: 10cm;
+    background-image: linear-gradient(rgba(0,8,51,0.9) ,rgba(0,8,51,0.9)), ;
+    background-position: center;
+    background-size: cover;
+
+  
+    
+
+
+
+}
+.header p,h1,a{
+    color: white;
+}
+.item ul,li,p{
+    color: black;
+}
+
